@@ -1,0 +1,9 @@
+product_id,product_name,category,selling_price,unit_cost,pack_size,min_order_qty,max_order_qty,holding_cost,markdown_cost,disposal_cost,fixed_handling_cost,markdown_schedule
+SB101,Portable blender,Household,34.99,17.5,4,0,420,0.063,0.35,1.225,8.0,"0,0,0,0.05,0.10,0.15,0.20,0.25"
+SB102,Solar garden lantern,Garden,24.99,10.5,6,0,720,0.045,0.25,0.875,8.0,"0,0,0,0.05,0.10,0.15,0.20,0.25"
+SB103,Bluetooth speaker,Electronics,39.99,21.0,4,0,480,0.072,0.4,1.4,8.0,"0,0,0,0.05,0.10,0.15,0.20,0.25"
+SB104,Seasonal baking set,Seasonal,18.99,9.0,8,0,960,0.034,0.19,0.665,8.0,"0,0,0,0.05,0.10,0.15,0.20,0.25"
+SB105,Fleece throw,Household,22.99,10.0,6,0,720,0.041,0.23,0.805,8.0,"0,0,0,0.05,0.10,0.15,0.20,0.25"
+SB106,Garden hose set,Garden,29.99,13.0,5,0,600,0.054,0.3,1.05,8.0,"0,0,0,0.05,0.10,0.15,0.20,0.25"
+SB107,Family board game,Toys,27.99,12.5,6,0,720,0.05,0.28,0.98,8.0,"0,0,0,0.05,0.10,0.15,0.20,0.25"
+SB108,LED work light,Electronics,19.99,8.5,10,0,1000,0.036,0.2,0.7,8.0,"0,0,0,0.05,0.10,0.15,0.20,0.25"
