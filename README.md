@@ -4,6 +4,8 @@
 **Authors:** Add group member names  
 **Research paper:** Tschan, A. et al. (2025), [“Data-Driven Inventory Control and Integrated Employee Involvement for Special Buys at ALDI SÜD Germany”](https://doi.org/10.1287/inte.2024.0182), *INFORMS Journal on Applied Analytics*, 55(1), 22–35.
 
+**Live prototype:** [Open the Special Buy Planner](https://specialbuy-planner-2muatamwe8kmordcuaqxaf.streamlit.app/) · **Source:** [GitHub repository](https://github.com/nkj312/specialbuy-planner)
+
 > This academic prototype uses generated data only. It is not ALDI SÜD software, data, or a reproduction of the company’s production model.
 
 ## 1. Business Requirements Document (BRD)
